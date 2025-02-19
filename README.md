@@ -1,4 +1,7 @@
 # Dual-Core Model of ENSO
 A multi-core model framework for realistic ENSO simulation. The repository for the paper entitled "A Dual-Core Model for ENSO Diversity: Unifying Model Hierarchies for Realistic Simulations".
 
+Before installing the DCM, please check the Makfile.
+Make sure that ifort compiler and netcdf4 libaray have been installed.
+
 The installation of Fortran-Torch-Adapter are accessible at https://github.com/luc99hen/FTA.
