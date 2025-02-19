@@ -5,3 +5,5 @@ Before installing the DCM, please check the Makfile.
 Make sure that the ifort compiler and netcdf4 libaray have been installed.
 
 The installation of Fortran-Torch-Adapter are accessible at https://github.com/luc99hen/FTA.
+
+Plase contact fangxh@fudan.edu.cn for theortical explanations and technical assistance.
