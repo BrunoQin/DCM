@@ -6,4 +6,4 @@ Make sure that the ifort compiler and netcdf4 libaray have been installed.
 
 The installation of Fortran-Torch-Adapter is accessible at https://github.com/luc99hen/FTA.
 
-Plase contact fangxh@fudan.edu.cn for theoretical explanations and technical assistance.
+Plase contact fangxh@fudan.edu.cn for technical assistance.
