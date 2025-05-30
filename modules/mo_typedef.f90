@@ -246,7 +246,7 @@ real*8,parameter :: Couple_Strength  = 1.0d0    !!! (1.0d0) !!! air-sea coupled 
 real*8,parameter :: Couple_TAUX_Bias = 0.0d0    !!! (-0.00062d0)  !!! couple taux bias (N/m^2)
 
 real*8,parameter :: TSUB_InPut_Amp   = 1.0d0    !!! TSUB input (SSH) amplitude factor
-real*8,parameter :: TSUB_OutPut_Amp  = 0.9d0    !!! TSUB output amplitude factor
+real*8,parameter :: TSUB_OutPut_Amp  = 1.0d0    !!! TSUB output amplitude factor
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
