@@ -1288,7 +1288,7 @@ SUBROUTINE CFModel_Update_FrcVec (TimTick,CFM_Par,CFM_Stat)
     
     
     !!!c2 = 0.1;
-    !!!% add a mean forcing to compensate the flux from the cubic damping that causes non-zero mean 
+    !!!% add a mean forcing to compensate the flux from the week cubic damping that causes non-zero mean 
     !!!f = [gamma * chi2 * c1 * ap(i) * sp / 2; - gamma * chi2 * c1 * ap(i) * sp / 3;...
     !!!    c1*eta2'* chi2*c2];
     
