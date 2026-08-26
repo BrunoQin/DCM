@@ -56,7 +56,7 @@ character(len=100),parameter :: SSH_Test_FName='MonAn_Mask_SSH_GODAS_1981_2023.n
 character(len=100),parameter :: TSUB_Test_FName='MonAn_Mask_TEMP_50m_GODAS_1981_2023.nc';
 
 !!! CNOP MJO Perturbation
-character(len=100),parameter :: MJO_Forcing_EEOF_FName='CF23_ENBOM_NLFV_PsTauXY_Forcing_EEOF.nc'
+character(len=100),parameter :: MJO_Forcing_EEOF_FName='CF23_ENBOM_MJO_PsTauXY_Forcing_EEOF.nc'
 
 !!! CNOP First Guess Txt File
 character(len=100),parameter :: MJO_Forcing_PC_Guess_FName='PC_PsTauXY_Guess.txt'
